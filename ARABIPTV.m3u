@@ -341,5 +341,77 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" ,TRT العربية
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="IL: ONE 1 HD"  tvg-logo="http://team.ga/images/chIcons/1186.png"  timeshift="6" group-title="Israel", IL: ONE 1 HD
+#EXTINF:0 tvg-id="IL: ONE 1 HD"  tvg-logo="http://team.ga/images/chIcons/1186.png"  timeshift="6", IL: ONE 1 HD
 http://3.team.ga:80/ch1186/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHju9rP1OoozPPenTE0ZL3L9TPb4zQWWehebhcRPgGiQX
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E01" tvg-logo="http://l.tvtesla.net:2095/images/_small.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E01
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E02" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E02
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E03" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E03
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E04" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E04
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E05" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E05
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E06" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E06
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E07" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E07
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E08" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E08
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E09" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E09
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E10" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E10
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E11" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E11
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E12" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E12
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E13" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E13
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E14" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E14
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E15" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E15
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E16" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E16
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E17" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E17
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E18" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E18
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/178245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E19" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E19
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/178390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E20" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E20
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/178623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E21" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E21
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/178791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E22" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E22
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/178949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E23" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E23
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/179288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E24" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E24
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/179286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E25" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E25
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/179443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E26" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E26
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/179585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E27" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E27
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/179791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E28" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E28
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/180022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E29" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E29
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/180177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E30" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E30
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/180480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E31" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E31
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/180881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E32" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E32
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E33" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E33
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/181299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E34" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E34
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/190845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E35" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E35
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/184944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="مقابلة مع السيد آدم 2 S01 E36" tvg-logo="http://l.tvtesla.net:2095/images/mO5ILHpTkYe1Ng61xwOFIgTt7Gc_big.jpg" group-title="Syrian Series",مقابلة مع السيد آدم 2 S01 E36
+http://showlivetv.pro:2095/series/54:3a:d6:ff:24:2c/0652414886/184945.mp4
